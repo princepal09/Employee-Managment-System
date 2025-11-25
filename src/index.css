@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+#task::-webkit-scrollbar{
+    display: none;
+}
+#task2::-webkit-scrollbar{
+    display: none;
+}
