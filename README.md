@@ -1,16 +1,37 @@
-# React + Vite
+# 🏥 Medi Nearby  
+A web application that helps users find nearby **medical stores, clinics, and hospitals** using **Leaflet.js** and **OpenStreetMap**.  
+This project is designed to make healthcare locations easy to discover with an interactive map.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🗺️ **Interactive map** using Leaflet.js  
+- 📍 Show user’s current location (Geolocation API)  
+- 🔍 Search nearby **medical stores**, **hospitals**, etc.  
+- 📌 Add markers for all results  
+- 🧭 View details like name, address, distance  
+- 📱 Fully responsive UI  
+- ⚡ Fast, simple, and lightweight solution
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+**Frontend:**  
+- React.js  
+- Leaflet.js  
+- OpenStreetMap  
+- CSS / Tailwind / Vanilla CSS  
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**APIs / Tools:**  
+- OpenStreetMap Nominatim API (search)  
+- Leaflet Geolocation  
+- Leaflet TileLayer  
+- Axios / Fetch API  
+
+---
+
+## 📸 Screenshots  
+*(Add your screenshots after creating a /screenshots folder)*  
