@@ -22,16 +22,13 @@ This project is designed to make healthcare locations easy to discover with an i
 - React.js  
 - Leaflet.js  
 - OpenStreetMap  
-- CSS / Tailwind / Vanilla CSS  
+- Vanilla CSS  
 - JavaScript
 
 **APIs / Tools:**  
 - OpenStreetMap Nominatim API (search)  
 - Leaflet Geolocation  
 - Leaflet TileLayer  
-- Axios / Fetch API  
+- Fetch API  
 
----
 
-## 📸 Screenshots  
-*(Add your screenshots after creating a /screenshots folder)*  
